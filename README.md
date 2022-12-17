@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I am currently pursuing a Masters in Business Analytics and Project Management.
+
+### I’m looking to collaborate on analytics projects that utilize python and machine learning.
+
+
 <!--
 **ShaileshRY/ShaileshRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
