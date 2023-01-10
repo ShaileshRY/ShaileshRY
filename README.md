@@ -2,7 +2,7 @@
 
 ### I am currently pursuing a Masters in Business Analytics and Project Management.
 
-### I’m looking to collaborate on analytics projects that utilize python and machine learning.
+### I’m looking to collaborate on analytics projects that delve into machine learning, NLP, deep learning, data visualization, algorithmic trading or marketing analytics.
 
 
 <!--
